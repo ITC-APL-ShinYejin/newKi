@@ -1,0 +1,28 @@
+{
+  "seikyuSelectKijunList": [
+    {
+      "seikyuKijunList" : [
+      {
+        "str2": "発送日"
+      },
+      {
+        "str2": "集荷日"
+      },
+      {
+        "str2": "到着日"
+      }]
+    },
+    {
+      "seikyuKijunList" : [
+      {
+        "str2": "発送日"
+      },
+      {
+        "str2": "集荷日"
+      },
+      {
+        "str2": "到着日"
+      }]
+    }
+  ]
+}
